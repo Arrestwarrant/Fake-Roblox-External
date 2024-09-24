@@ -16,3 +16,6 @@
 <p align="center">
   <img src="https://i.ibb.co/1JH8T5f/image.png" alt="Preview 1">
 </p>
+
+## Credits
+https://github.com/noahswtf/external-overlay
